@@ -1,2 +1,8 @@
 <block name="dirt">
-</>
+  <texture face="front">../textures/blocks/dirt.jpg</texture>
+  <texture face="back">../textures/blocks/dirt.jpg</texture>
+  <texture face="left">../textures/blocks/dirt.jpg</texture>
+  <texture face="right">../textures/blocks/dirt.jpg</texture>
+  <texture face="top">../textures/blocks/dirt.jpg</texture>
+  <texture face="bottom">../textures/blocks/dirt.jpg</texture>
+</block>
